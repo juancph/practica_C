@@ -4,6 +4,7 @@ El siguiente repositorio, contiene una lista de ejercicios prácticos del lengua
 ---
 ## Lista de ejercicios
 1. [Acumulador](01_acumulador.c)
+2. [Verificador de número primo](03_encontrar_numeros_primos.c)
 ---
 ## ¿CÓMO ACCEDER AL CONTENIDO?
 1. Clona el repositorio
